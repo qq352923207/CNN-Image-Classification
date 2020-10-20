@@ -1,1 +1,1 @@
-# Fast-Neural-Style-Transfer
+# CNN-Image-Classification
